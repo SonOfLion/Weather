@@ -1,3 +1,4 @@
-import ReactDOm from 'react-dom';
+import React from 'react';
+import ReactDOM from 'react-dom';
 
-ReactDOm.render(document.querySelector('#root'))
+ReactDOM.render(document.querySelector('#root'))
